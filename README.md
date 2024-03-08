@@ -1,1 +1,1 @@
-# Pong-Demo
+# JavaScript tutorials here
